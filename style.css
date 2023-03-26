@@ -1,0 +1,63 @@
+*{
+    color: white;
+}
+body{
+    background-color: rgb(158, 179, 218);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+h1{
+    padding: 10px;
+    color: rgb(98, 98, 192);
+}
+
+p{
+    padding: 10px ;
+    color: rgb(29, 0, 194);
+}
+
+#box1{
+background-color: rgb(159, 111, 248);
+margin: 50px;
+width: 350px;
+height: 400px;
+float: left;
+}
+
+#box2{
+background-color: rgb(130, 161, 226);
+margin: 50px auto 0 auto;
+width: 350px;  
+height: 400px;
+float: left;
+}
+
+#box3{
+background-color: rgb(187, 130, 240);
+margin: 50px ;
+width: 350px;
+height: 400px;
+float: right;
+}
+ 
+h3{
+    padding: 20px;
+
+}
+
+#box4{
+    margin: 10px;
+    background-color: blueviolet;
+}
+
+#box5{
+    margin: 10px;
+    background-color:rgb(79, 79, 238);
+}
+
+
+#box6{
+    margin: 10px;
+    background-color:rgb(211, 88, 241);
+}
+
