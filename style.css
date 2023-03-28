@@ -4,42 +4,53 @@
     color: white;
 }
 body{
-    background-color: rgb(158, 179, 218);
+    background-image: url("Purple.jpg");
+    background-size: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
 
 }
 h1{
     padding: 10px;
-    color: rgb(98, 98, 192);
 }
 
 p{
     padding: 10px ;
-    color: rgb(29, 0, 194);
 }
 
-#box1{
-background-color: rgb(159, 111, 248);
+.box1{
+background-color: rgb(222, 190, 252);
 margin: 50px;
+padding: 10px;
 width: 350px;
 height: 400px;
+border: none;
+box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.6);
+border-radius: 20px;
 float: left;
 }
 
-#box2{
-background-color: rgb(130, 161, 226);
+.box2{
+background-color: rgb(166, 188, 235);
 margin: 50px auto 0 auto;
+padding: 10px;
 width: 350px;  
 height: 400px;
+border: none;
+box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.6);
+border-radius: 20px;
 float: left;
 }
 
-#box3{
-background-color: rgb(187, 130, 240);
+.box3{
+background-color: rgb(196, 170, 245);
 margin: 50px ;
+padding: 10px;
 width: 350px;
 height: 400px;
-float: right;
+border: none;
+box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.6);
+border-radius: 20px;
+float :right;
 }
  
 h3{
@@ -47,19 +58,29 @@ h3{
 
 }
 
-#box4{
+.box4{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0,0.6);
     margin: 10px;
     background-color: blueviolet;
 }
 
-#box5{
+.box5{ 
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0,0.6);
     margin: 10px;
     background-color:rgb(79, 79, 238);
 }
 
 
-#box6{
+.box6{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0,0.6);
     margin: 10px;
     background-color:rgb(211, 88, 241);
 }
+
 
